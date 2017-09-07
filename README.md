@@ -3,7 +3,7 @@ vim-qif
 
 ## Features
 
-This is a plugin for Vim which adds support for [QIF][qif] files.
+This is a plugin for Vim which adds support for [QIF][qif] (Quicken) files.
 
 [qif]: https://en.wikipedia.org/wiki/Quicken_Interchange_Format
 
