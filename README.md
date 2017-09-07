@@ -11,6 +11,8 @@ Features:
 
   - Syntax highlighting.
 
+  - Move between transactions using the `[[` and `]]` commands.
+
 ## Install
 
 This project follows the standard runtime path structure.
