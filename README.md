@@ -19,11 +19,13 @@ This project follows the standard runtime path structure.
 
   - Install using native packages in Vim 8:
 
-        $ git clone https://git.sr.ht/~ljc/vim-qif ~/.vim/pack/plugins/start/vim-qif
+        $ git clone https://github.com/ljcooke/vim-qif.git \
+            ~/.vim/pack/plugins/start/vim-qif
 
   - Install using Pathogen:
 
-        $ git clone https://git.sr.ht/~ljc/vim-qif ~/.vim/bundle/vim-qif
+        $ git clone https://github.com/ljcooke/vim-qif.git \
+            ~/.vim/bundle/vim-qif
 
 ## Usage
 

@@ -1,7 +1,7 @@
 " Vim filetype plugin
 " Language: QIF
 " Maintainer: Liam Cooke
-" URL: https://git.sr.ht/~ljc/vim-qif
+" URL: https://github.com/ljcooke/vim-qif
 " License: MIT
 
 " Only do this when not done yet for this buffer
